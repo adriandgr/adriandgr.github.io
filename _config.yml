@@ -2,7 +2,7 @@
 title: ONZO.art
 email: web.art@adriandiaz.ca
 description: "The home of Ridia Onzo's artist portfolio."
-url: "http://www.onzo.ca"  # http://127.0.0.1:4000
+url: "https://adriandgr.github.io"  # http://127.0.0.1:4000
                            # http://www.onzo.ca
 twitter_username: adgr72
 github_username:  adriandgr
@@ -29,7 +29,7 @@ collections:
 owner:
   name: Ridia Onzo
   display_name: Onzo
-  web: http://www.onzo.ca
+  web: https://adriandgr.github.io
   email: obj.art@onzo.ca
   twitter: adgr72
   github: adriandgr
